@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>BigEyedAndroid rambles</title>
+	
+	<link href="https://db.onlinewebfonts.com/c/860c3ec7bbc5da3e97233ccecafe512e?family=Circular+Std+Book" rel="stylesheet" type="text/css"/>
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/showdown/1.9.1/showdown.min.js"></script>
+	<style type="text/css">
+		* {
+			font-family: Circular Std Book;
+		}
+		body {
+			background-color: #000011;
+			color : #FFFFFF;
+			font-size: 130%;
+			padding: 50px 150px 50px 150px;
+			line-height: 1.8em;
+		}
+		.content {
+			width: 100%;
+			height: 100%;
+		}
+		#md {
+			display: none;
+		}
+	</style>
+</head>
+<body>
+	<div class="content" id="content">
+	</div>
+<div id="md">
+
+## Hello
+
+Welcome to my space. You're a little too close. 
+
+
+</div>
+	<script type="text/javascript">
+		var content = document.getElementById('content');
+		var md = document.getElementById('md');
+		var converter = new showdown.Converter();
+		content.innerHTML = converter.makeHtml(md.textContent);
+	</script>
+</body>
+</html>
