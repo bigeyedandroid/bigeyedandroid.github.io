@@ -2,3 +2,43 @@ baseURL = "https://mostlyharmless.site/"
 languageCode = "en-us"
 title = "Mostly Harmless"
 theme = "cactus"
+[params]
+showAllPostsOnHomePage = true
+colortheme = "dark"
+tagsOverview = false
+
+ # Main menu which appears below site header.
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 2
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 3
+
+[[params.social]]
+  name = "github"
+  link = "https://github.com/bigeyedandroid"
+
+[[params.social]]
+  name = "email"
+  link = "prakya.sv@gmail.com"
+
+[[params.social]]
+  name = "linkedin"
+  link = "https://www.linkedin.com/in/prakya/"
+
+[[params.social]]
+  name = "instagram"
+  link = "https://www.instagram.com/prakyavasudevan/"
+
+[[params.social]]
+  name = "twitter"
+  link = "https://twitter.com/prakyavasudevan"

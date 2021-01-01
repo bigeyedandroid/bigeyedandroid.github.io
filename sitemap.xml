@@ -8,6 +8,21 @@
   </url>
   
   <url>
+    <loc>https://mostlyharmless.site/tags/grandma/</loc>
+    <lastmod>2020-04-12T15:40:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mostlyharmless.site/tags/grandpa/</loc>
+    <lastmod>2020-04-12T15:40:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mostlyharmless.site/tags/heroes/</loc>
+    <lastmod>2020-04-12T15:40:38+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://mostlyharmless.site/</loc>
     <lastmod>2020-04-12T15:40:38+05:30</lastmod>
   </url>
@@ -18,16 +33,22 @@
   </url>
   
   <url>
+    <loc>https://mostlyharmless.site/tags/</loc>
+    <lastmod>2020-04-12T15:40:38+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://mostlyharmless.site/posts/thatha-paati/</loc>
     <lastmod>2020-04-12T15:40:38+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://mostlyharmless.site/categories/</loc>
+    <loc>https://mostlyharmless.site/about/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://mostlyharmless.site/tags/</loc>
+    <loc>https://mostlyharmless.site/categories/</loc>
   </url>
   
 </urlset>

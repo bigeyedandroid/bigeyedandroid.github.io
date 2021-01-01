@@ -2,6 +2,10 @@
 title: "Thatha & Paati"
 date: 2020-04-12T15:40:38+05:30
 draft: false
+tags:
+  - heroes
+  - grandpa
+  - grandma
 ---
 
 Growing up, I always saw my Thatha as my hero. He was a tall man with a dynamic personality. He could crack up any room with a simple wordplay. You could hear him guffaw along with the rest of the audience who'd be in splits.
