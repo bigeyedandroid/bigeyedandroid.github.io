@@ -1,0 +1,4 @@
+baseURL = "https://mostlyharmless.site/"
+languageCode = "en-us"
+title = "Mostly Harmless"
+theme = "cactus"
