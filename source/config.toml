@@ -23,9 +23,6 @@ name = "About"
 url = "/about"
 weight = 3
 
-[[params.social]]
-  name = "github"
-  link = "https://github.com/bigeyedandroid"
 
 [[params.social]]
   name = "email"
@@ -34,10 +31,6 @@ weight = 3
 [[params.social]]
   name = "linkedin"
   link = "https://www.linkedin.com/in/prakya/"
-
-[[params.social]]
-  name = "instagram"
-  link = "https://www.instagram.com/prakyavasudevan/"
 
 [[params.social]]
   name = "twitter"
